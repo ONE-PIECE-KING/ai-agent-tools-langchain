@@ -1,0 +1,49 @@
+{
+  "document_type": "技術文檔_Recursive",
+  "splitter": "RecursiveCharacterTextSplitter",
+  "metrics": {
+    "chunk_count": 7,
+    "avg_chunk_size": 125.71428571428571,
+    "max_chunk_size": 191,
+    "min_chunk_size": 16,
+    "processing_time": 0.00022769998759031296,
+    "overlap_ratio": 0.0
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n    <title>AI Development Guide</title>\n    <meta charset=\"UTF-8\">\n    <meta name=\"description\" content=\"A comprehensive guide to AI development\">\n</head>\n<body>",
+      "length": 191
+    },
+    {
+      "index": 1,
+      "content": "<h1>人工智能開發指南</h1>\n    \n    <div class=\"section\">\n        <h2>基礎要求</h2>\n        <ul>\n            <li>Python 3",
+      "length": 108
+    },
+    {
+      "index": 2,
+      "content": ".8+</li>\n            <li>TensorFlow 或 PyTorch</li>\n            <li>CUDA 支援（可選）</li>\n            <li>基礎數學和統計知識</li>\n        </ul>\n    </div>",
+      "length": 139
+    },
+    {
+      "index": 3,
+      "content": "<div class=\"section\">\n        <h2>開發環境設置</h2>\n        <ol>\n            <li>安裝 Python</li>\n            <li>設置虛擬環境</li>\n            <li>安裝依賴套件</li>\n            <li>配置 GPU 環境</li>\n        </ol>",
+      "length": 190
+    },
+    {
+      "index": 4,
+      "content": "</ol>\n    </div>",
+      "length": 16
+    },
+    {
+      "index": 5,
+      "content": "<div class=\"section\">\n        <h2>推薦學習路徑</h2>\n        <p>建議按照以下順序學習：</p>\n        <ol>\n            <li>Python 基礎程式設計</li>\n            <li>機器學習基礎理論</li>\n            <li>深度學習框架使用</li>",
+      "length": 180
+    },
+    {
+      "index": 6,
+      "content": "<li>專案實戰練習</li>\n        </ol>\n    </div>\n</body>\n</html>",
+      "length": 56
+    }
+  ]
+}
