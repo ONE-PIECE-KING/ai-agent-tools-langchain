@@ -1,0 +1,24 @@
+{
+  "document_type": "技術文檔_HTML",
+  "splitter": "HTMLTextSplitter",
+  "metrics": {
+    "chunk_count": 2,
+    "avg_chunk_size": 127.5,
+    "max_chunk_size": 163,
+    "min_chunk_size": 92,
+    "processing_time": 0.0007918000046629459,
+    "overlap_ratio": 0.05
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "content": "# 人工智能開發指南\n\n基礎要求\n\nPython 3.8+\nTensorFlow 或 PyTorch\nCUDA 支援（可選）\n基礎數學和統計知識\n\n## 基礎要求\n\nPython 3.",
+      "length": 92
+    },
+    {
+      "index": 1,
+      "content": "安裝 Python\n\n設置虛擬環境\n\n安裝依賴套件\n\n配置 GPU 環境\n\n推薦學習路徑\n建議按照以下順序學習：\n\nPython 基礎程式設計\n機器學習基礎理論\n深度學習框架使用\n專案實戰練習\n\n## 推薦學習路徑\n\n建議按照以下順序學習：\n\nPython 基礎程式設計\n\n機器學習基礎理論\n\n深度學習框架使用\n\n專案實戰練習",
+      "length": 163
+    }
+  ]
+}
