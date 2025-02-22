@@ -1,6 +1,0 @@
-Model,Accuracy,Training Time,Memory Usage,Description
-BERT-base,0.92,12.5,5.2,"基礎BERT模型，適合一般NLP任務"
-RoBERTa-large,0.95,24.3,10.8,"改進版BERT，性能更優但資源消耗較大"
-GPT-3,0.98,168.0,45.6,"大型語言模型，功能強大但成本高"
-T5-small,0.89,8.2,3.4,"輕量級T5模型，適合資源受限場景"
-BART,0.93,15.7,7.1,"序列到序列模型，適合生成任務"
